@@ -42,8 +42,8 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "YEAHHHH ICH KANN NICHT WARTENNN!! 🥳🥰🔥🚀",  // Shows when they go past 5000%
-        high: "'M READDYYY 🔥🔥",              // Shows when they go past 1000%
+        extreme: "YEAHHHH I CANNOT WAITT!! 🥳🔥🚀",  // Shows when they go past 5000%
+        high: "I'M READDYYY 🔥🔥",              // Shows when they go past 1000%
         normal: "Yessirrr, lass was machen ☺️🤭"                           // Shows when they go past 100%
     },
 
