@@ -59,8 +59,8 @@ const CONFIG = {
     colors: {
         backgroundStart: "#0D1A63",      // Gradient start (try pastel colors for a soft look)
         backgroundEnd: "#740A03",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "8A244B",     // Button color (should stand out against the background)
-        buttonHover: "D02752",          // Button hover color (slightly lighter than buttonBackground)
+        buttonBackground: "#8A244B",     // Button color (should stand out against the background)
+        buttonHover: "#D02752",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#000000"             // Text color (make sure it's readable!)
     },
 
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dze8ooi5h/video/upload/v1770331229/Badtameez_Dil_Full_Song_HD_Yeh_Jawaani_Hai_Deewani_PRITAM_Ranbir_Kapoor_Deepika_Padukone_boxjsd.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
